@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  width: 200px;
+}
+
+img {
+  width: 100%;
+  height: fit-content;
+}
